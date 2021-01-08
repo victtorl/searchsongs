@@ -1,0 +1,27 @@
+
+.contenedor-musicas{
+  height:20rem; 
+  overflow: scroll;
+  background-color:#2CF685;
+}
+.title_music{
+  background-color: blueviolet;
+  text-align: center;
+  border-radius: 5px;
+  color: #2CF685;
+}
+.pista{
+  font-size: 9px;
+}
+.audio{
+  width: 15rem;
+  height: 5rem;
+}
+.title-principal{
+  text-align: center;
+  color: #2CF685;
+}
+.todo{
+  background-color:#3498db;
+}
+

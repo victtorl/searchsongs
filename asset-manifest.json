@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deploy-searchsongs/static/css/main.360e0e41.chunk.css",
+    "main.js": "/deploy-searchsongs/static/js/main.73936c2d.chunk.js",
+    "main.js.map": "/deploy-searchsongs/static/js/main.73936c2d.chunk.js.map",
+    "runtime-main.js": "/deploy-searchsongs/static/js/runtime-main.cd62862a.js",
+    "runtime-main.js.map": "/deploy-searchsongs/static/js/runtime-main.cd62862a.js.map",
+    "static/css/2.81057f45.chunk.css": "/deploy-searchsongs/static/css/2.81057f45.chunk.css",
+    "static/js/2.d4a210fa.chunk.js": "/deploy-searchsongs/static/js/2.d4a210fa.chunk.js",
+    "static/js/2.d4a210fa.chunk.js.map": "/deploy-searchsongs/static/js/2.d4a210fa.chunk.js.map",
+    "index.html": "/deploy-searchsongs/index.html",
+    "static/css/2.81057f45.chunk.css.map": "/deploy-searchsongs/static/css/2.81057f45.chunk.css.map",
+    "static/css/main.360e0e41.chunk.css.map": "/deploy-searchsongs/static/css/main.360e0e41.chunk.css.map",
+    "static/js/2.d4a210fa.chunk.js.LICENSE.txt": "/deploy-searchsongs/static/js/2.d4a210fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd62862a.js",
+    "static/css/2.81057f45.chunk.css",
+    "static/js/2.d4a210fa.chunk.js",
+    "static/css/main.360e0e41.chunk.css",
+    "static/js/main.73936c2d.chunk.js"
+  ]
+}

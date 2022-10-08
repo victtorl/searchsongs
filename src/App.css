@@ -1,4 +1,13 @@
 
+.todo{
+  margin-top: 5rem;
+  background-color:#3498db;
+}
+.maincontainer{
+
+  background-color: #2CF685;
+
+}
 .contenedor-musicas{
   height:20rem; 
   overflow: scroll;
@@ -18,10 +27,9 @@
   height: 5rem;
 }
 .title-principal{
+
   text-align: center;
   color: #2CF685;
 }
-.todo{
-  background-color:#3498db;
-}
+
 

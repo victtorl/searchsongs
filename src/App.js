@@ -12,16 +12,16 @@ import Reproductor from './components/Reproductor';
 
 const App =()=>(
   <Provider store={store}>
-      <main>
+      <main className='maincontainer'>
       
 
-      <div className="container todo">
+      <div className="container todo ">
         <div className="row">
-        <h1 className="title-principal">Musicas de exito mundial!..</h1>
+        <h1 className="title-principal">Escuche un fragmento de su musica favorita en calidad HQ</h1>
         <Busqueda/>
-        
         <Reproductor/>
         </div>
+        <br></br>
         <div className="row">
           <div className="col-md-3 col-sm-3">
             <Musica/>
